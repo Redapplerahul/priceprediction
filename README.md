@@ -51,7 +51,7 @@ Used scikit-learn library for the Machine Learning tasks. Applied label encoding
 <li>Automated Method</li>
 Used the auto ML library in python called PyCaret. Compared all the regression models and selected the best model for applied hyperparameter tuning and plotted the various curves.
 
-Link to my article: <a href="https://towardsdatascience.com/leverage-the-power-of-pycaret-d5c3da3adb9b">https://towardsdatascience.com/leverage-the-power-of-pycaret-d5c3da3adb9b</a>
+ 
 
 # Model Deployment
 I have deployed the model using Streamlit library and flask framework on Heroku which is a Platform As A Service(PAAS)
